@@ -17,7 +17,7 @@ const firebaseConfig = {
 
   const app = initializeApp(firebaseConfig);
 
-  import {getFirestore, doc, getDoc, getDocs, setDoc, onSnapshot, collection} from "https://www.gstatic.com/firebasejs/9.8.2/firebase-firestore.js";
+  import {getFirestore, doc, deleteDoc, getDoc, getDocs, setDoc, onSnapshot, collection} from "https://www.gstatic.com/firebasejs/9.8.2/firebase-firestore.js";
 
   const db = getFirestore();
 
@@ -105,16 +105,35 @@ function addAll (Mangafun) {
       rating: rating.value
   })
   .then(() => {
-      alert("Data stored");
+      alert("Stored");
   })
   .catch((error) => {
-      alert("Not stored"+error);
+      alert("Something weird happened"+error);
   });
 }
-//---------------------------------Uhhhh--------------------------------//
 
+//---------------------------------Remover--------------------------------//
+
+function removeData() {
+  deleteDoc(doc(db, "Manga", title.value), {
+   title: title.value,
+   image: image.value,
+   description: description.value,
+   genre: genre.value,
+   rating: rating.value
+})
+.then(() => {
+   alert("Reeemoved");
+})
+.catch((error) => {
+   alert("Something weird happened"+error);
+});
+}
+
+//---------------------------------Uhhhh--------------------------------//
 
 window.onload = gimmeRealTime
 btncreate.addEventListener('click', insertData)
+btnremove.addEventListener('click', removeData)
 
 //---------------------------------Uhhhh--------------------------------//
