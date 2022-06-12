@@ -28,6 +28,7 @@ let title = document.getElementById('title')
 let description = document.getElementById('description');
 let genre = document.getElementById('genre');
 let rating = document.getElementById('rating');
+let image = document.getElementById('image')
 
 
 var btncreate = document.getElementById('btncreate');
@@ -39,27 +40,32 @@ var btnupdate = document.getElementById('btnupdate');
 //---------------------------------Preencher Table--------------------------------//
 var mangaNo = 0;
 var tbody = document.getElementById('tbody1')
-function addTable (title, description, genre, rating) {
+function addTable (title, image, description, genre, rating) {
   let trow = document.createElement("tr");
-  let td1 = document.createElement("td")  
+  let td1 = document.createElement("img")  
   let td2 = document.createElement("td")  
   let td3 = document.createElement("td")  
   let td4 = document.createElement("td")  
-  let td5 = document.createElement("img") 
-  td5.classList = ("thumbnail");
+  let td5 = document.createElement("td")
+  let td6 = document.createElement("td")
+
+  td1.classList = ("thumbnail");
   
-  td1.innerHTML = ++mangaNo
+  td1.innerHTML = image
+  td1.src = image
   td2.innerHTML = title
   td3.innerHTML = description
   td4.innerHTML = genre
   td5.innerHTML = rating
-  td5.src = rating
+  td6.innerHTML = ++mangaNo
 
   trow.appendChild(td1)
   trow.appendChild(td2)
   trow.appendChild(td3)
   trow.appendChild(td4)
   trow.appendChild(td5)
+  trow.appendChild(td6)
+
   tbody.appendChild(trow)
  }
 
@@ -69,7 +75,7 @@ function addAll (Mangafun) {
   mangaNo = 0
   tbody.innerHTML= ""
   Mangafun.forEach(element => {
-    addTable(element.title, element.description, element.genre, element.rating)
+    addTable(element.title, element.image, element.description, element.genre, element.rating)
   })
 }
 
@@ -93,6 +99,7 @@ function addAll (Mangafun) {
  function insertData() {
      setDoc(doc(db, "Manga", title.value), {
       title: title.value,
+      image: image.value,
       description: description.value,
       genre: genre.value,
       rating: rating.value
