@@ -17,7 +17,7 @@ const firebaseConfig = {
 
   const app = initializeApp(firebaseConfig);
 
-  import {getFirestore, doc, deleteDoc, getDoc, getDocs, setDoc, onSnapshot, collection} from "https://www.gstatic.com/firebasejs/9.8.2/firebase-firestore.js";
+  import {getFirestore, doc, deleteDoc, getDoc, getDocs, query, where, setDoc, onSnapshot, collection} from "https://www.gstatic.com/firebasejs/9.8.2/firebase-firestore.js";
 
   const db = getFirestore();
 
@@ -29,12 +29,14 @@ let description = document.getElementById('description');
 let genre = document.getElementById('genre');
 let rating = document.getElementById('rating');
 let image = document.getElementById('image')
+let search = document.getElementById('search')
+
 
 
 var btncreate = document.getElementById('btncreate');
 var btnread = document.getElementById('btnread');
 var btnremove = document.getElementById('btnremove');
-var btnupdate = document.getElementById('btnupdate');
+var btnsearch = document.getElementById('btnsearch');
 
 
 //---------------------------------Preencher Table--------------------------------//
@@ -93,8 +95,32 @@ function addAll (Mangafun) {
     })
   }
 
-//---------------------------------Inserir2--------------------------------//
+//---------------------------------Search--------------------------------//
 
+
+$('#search').keyup(function() {
+  var input, filter, found, table, tr, td, i, j;
+  input = document.getElementById("search");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("tbody1");
+  tr = table.getElementsByTagName("tr");
+  for (i = 0; i < tr.length; i++) {
+      td = tr[i].getElementsByTagName("td");
+      for (j = 0; j < td.length; j++) {
+          if (td[j].innerHTML.toUpperCase().indexOf(filter) > -1) {
+              found = true;
+          }
+      }
+      if (found) {
+          tr[i].style.display = "";
+          found = false;
+      } else {
+          tr[i].style.display = "none";
+      }
+  }
+})
+
+//---------------------------------Inserir2--------------------------------//
 
  function insertData() {
      setDoc(doc(db, "Manga", title.value), {
@@ -130,10 +156,15 @@ function removeData() {
 });
 }
 
+
 //---------------------------------Uhhhh--------------------------------//
+
+
 
 window.onload = gimmeRealTime
 btncreate.addEventListener('click', insertData)
 btnremove.addEventListener('click', removeData)
+btnread.addEventListener('click', getData)
 
 //---------------------------------Uhhhh--------------------------------//
+
