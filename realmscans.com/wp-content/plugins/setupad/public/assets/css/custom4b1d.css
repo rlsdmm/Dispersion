@@ -1,0 +1,20 @@
+.setupAdClick { cursor: pointer;}
+
+.sticky-desktop-ads, sticky-mobile-ads {
+    position: -webkit-sticky; 
+    position: sticky;
+    top: 0;
+    float: left;
+  }
+
+.stpd_between_comments {
+    margin: 10px 0;
+}
+
+.stpd_between_posts{
+    margin: 10px 0;
+}
+
+.stpd_before_after_comments {
+    margin: 10px 0;
+}

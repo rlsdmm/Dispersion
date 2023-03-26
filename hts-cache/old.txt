@@ -1,0 +1,7 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+08:23:39	43/43	---M--	200	added ('OK')	text/plain	etag:%22641b0b4c-2b%22	https://realmscans.com/robots.txt		(from )
+08:23:40	123084/123084	---M-Z	200	added ('OK')	text/html	date:Sat,%2025%20Mar%202023%2011:09:00%20GMT	https://realmscans.com/	E:/My%20Web%20Sites/scan/realmscans.com/index.html	(from )
+08:23:40	1309/1309	---MCZ	200	added ('OK')	text/javascript	date:Fri,%2028%20Oct%202022%2007:39:27%20GMT	https://cmp.setupcmp.com/cmp/cmp/cmp-stub.js	E:/My%20Web%20Sites/scan/cmp.setupcmp.com/cmp/cmp/cmp-stub.js	(from https://realmscans.com/)
+08:23:40	126283/126283	---MCZ	200	added ('OK')	text/javascript	date:Wed,%2001%20Feb%202023%2011:08:36%20GMT	https://cmp.setupcmp.com/cmp/cmp/cmp-v1.js	E:/My%20Web%20Sites/scan/cmp.setupcmp.com/cmp/cmp/cmp-v1.js	(from https://realmscans.com/)
+08:23:40	5310/5310	---M-Z	200	added ('OK')	application/javascript	etag:W/%2214be-WmlQIO/ElIG9SfA/X8UgGV8u+ls%22	https://cdn.jsdelivr.net/npm/in-view@0.6.1/dist/in-view.min.js	E:/My%20Web%20Sites/scan/cdn.jsdelivr.net/npm/in-view@0.6.1/dist/in-view.min.js	(from https://realmscans.com/)
+08:23:41	79608/79608	---M--	200	added ('OK')	text/javascript	etag:%221521%20/%20467%20of%201000%20/%20last-modified:%201679695651%22	https://securepubads.g.doubleclick.net/tag/js/gpt.js	E:/My%20Web%20Sites/scan/securepubads.g.doubleclick.net/tag/js/gpt.js	(from https://realmscans.com/)
