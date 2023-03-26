@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>HARAAI Miki &#8211; Dispersion Translations</title>
+	<atom:link href="/manga-author/haraai-miki/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Sun, 26 Mar 2023 00:42:32 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>6-ji kara 8-ji made</title>
+		<link>/manga/6-ji-kara-8-ji-made/</link>
+					<comments>/manga/6-ji-kara-8-ji-made/#comments</comments>
+		
+		<dc:creator><![CDATA[link]]></dc:creator>
+		<pubDate>Wed, 11 Oct 2017 09:29:49 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.mangabooth.com/?post_type=wp-manga&#038;p=298</guid>
+
+					<description><![CDATA[Junko Sakuraban, a 27-year-old lecturer at an English conversation school has no boyfriend. Her parents set up a marriage interview for her with a man who turns out to be a Buddhist monk. However, Junko has no intention of becoming a temple wife, so she refuses to do the interview. Soon afterward, the man signs...<div class="c-read-more"><a class="c-read-more-link" href="/manga/6-ji-kara-8-ji-made/">Continue Reading</a> &#8594;</div>]]></description>
+										<content:encoded><![CDATA[<p>Junko Sakuraban, a 27-year-old lecturer at an English conversation school has no boyfriend. Her parents set up a marriage interview for her with a man who turns out to be a Buddhist monk. However, Junko has no intention of becoming a temple wife, so she refuses to do the interview. Soon afterward, the man signs up to become her private student.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/manga/6-ji-kara-8-ji-made/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>KAHASHIDA Yukari &#8211; Dispersion Translations</title>
+	<atom:link href="/manga-artist/kahashida-yukari/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Sun, 26 Mar 2023 00:44:10 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Kahana no Shou</title>
+		<link>/manga/kahana-no-shou/</link>
+					<comments>/manga/kahana-no-shou/#respond</comments>
+		
+		<dc:creator><![CDATA[link]]></dc:creator>
+		<pubDate>Wed, 18 Oct 2017 09:27:36 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.mangabooth.com/?post_type=wp-manga&#038;p=395</guid>
+
+					<description><![CDATA[Kounosuke is the favored son of a noble family. When he is caught in a fire at the mansion, a blow to the head causes him to remember scenes from a previous life. A former Warring States Period daimyo, he had a torrid love affair with his page, Kageya. Kageya had sworn that when they...<div class="c-read-more"><a class="c-read-more-link" href="/manga/kahana-no-shou/">Continue Reading</a> &#8594;</div>]]></description>
+										<content:encoded><![CDATA[<p>Kounosuke is the favored son of a noble family. When he is caught in a fire at the mansion, a blow to the head causes him to remember scenes from a previous life. A former Warring States Period daimyo, he had a torrid love affair with his page, Kageya. Kageya had sworn that when they were born again they would be together in the next life. But when Kounosuke wakes up, three men appear before him &#8211; all named Kageya! Can Kounosuke traverse time and be reunited again with his beloved Kageya</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/manga/kahana-no-shou/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -2,11 +2,11 @@
 
 @font-face {
     font-family: "madara-budicon";
-    src: url("fonts/madara-budicon.eot");
-    src: url("fonts/madara-budicon.eot?#iefix") format("embedded-opentype"),
-    url("fonts/madara-budicon.woff") format("woff"),
-    url("fonts/madara-budicon.ttf") format("truetype"),
-    url("fonts/madara-budicon.svg#madara-budicon") format("svg");
+    src: url("/wp-content/themes/madara/css/fonts/ct-icon/fonts/madara-budicon.eot");
+    src: url("/wp-content/themes/madara/css/fonts/ct-icon/fonts/madara-budicon.eot#iefix") format("embedded-opentype"),
+    url("/wp-content/themes/madara/css/fonts/ct-icon/fonts/madara-budicon.woff") format("woff"),
+    url("/wp-content/themes/madara/css/fonts/ct-icon/fonts/madara-budicon.ttf") format("truetype"),
+    url("/wp-content/themes/madara/css/fonts/ct-icon/fonts/madara-budicon.svg#madara-budicon") format("svg");
     font-weight: normal;
     font-style: normal;
 

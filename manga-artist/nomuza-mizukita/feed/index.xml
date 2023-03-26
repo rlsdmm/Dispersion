@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Nomuza Mizukita &#8211; Dispersion Translations</title>
+	<atom:link href="/manga-artist/nomuza-mizukita/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Sun, 26 Mar 2023 00:41:27 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Nasama Okima</title>
+		<link>/manga/nasama-okima/</link>
+					<comments>/manga/nasama-okima/#comments</comments>
+		
+		<dc:creator><![CDATA[link]]></dc:creator>
+		<pubDate>Tue, 10 Oct 2017 02:22:35 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.mangabooth.com/?post_type=wp-manga&#038;p=227</guid>
+
+					<description><![CDATA[Kyoto Mogami lived solely for her childhood friend Shoutami &#8220;Shou&#8221; Fuwa. She follows Shou to Tokyo so that he may realize his dream of becoming a famous singer. When his dream is realized, Kyoto overhears the truth behind his decision to bringing her with him: he was using her as a maid. Shocked and enraged,...<div class="c-read-more"><a class="c-read-more-link" href="/manga/nasama-okima/">Continue Reading</a> &#8594;</div>]]></description>
+										<content:encoded><![CDATA[<p>Kyoto Mogami lived solely for her childhood friend Shoutami &#8220;Shou&#8221; Fuwa. She follows Shou to Tokyo so that he may realize his dream of becoming a famous singer. When his dream is realized, Kyoto overhears the truth behind his decision to bringing her with him: he was using her as a maid. Shocked and enraged, Kyoto swears to take revenge by outdoing him in show business. With a new look and a new attitude, she joins LME, the agency where Ren Tsuruga (Shou&#8217;s rival and the #1 actor of LME) works, in the hopes of achieving her goal of destroying Shou&#8217;s pride.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/manga/nasama-okima/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

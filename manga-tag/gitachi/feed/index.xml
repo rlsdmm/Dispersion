@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gitachi &#8211; Dispersion Translations</title>
+	<atom:link href="/manga-tag/gitachi/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Sun, 26 Mar 2023 00:42:11 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Kitasou Girl</title>
+		<link>/manga/kitasou-girl/</link>
+					<comments>/manga/kitasou-girl/#comments</comments>
+		
+		<dc:creator><![CDATA[link]]></dc:creator>
+		<pubDate>Wed, 11 Oct 2017 09:35:27 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.mangabooth.com/?post_type=wp-manga&#038;p=288</guid>
+
+					<description><![CDATA[The story follows Kaizz, a 27-year-old jobless man who fails at every job interview he had after quitting his last company which he only lasted at for three months. His life changes after meeting Yoaket zikita of the ReLife Research Institute, who offers him a drug that can change his appearance to 17-years-old again and...<div class="c-read-more"><a class="c-read-more-link" href="/manga/kitasou-girl/">Continue Reading</a> &#8594;</div>]]></description>
+										<content:encoded><![CDATA[<p>The story follows Kaizz, a 27-year-old jobless man who fails at every job interview he had after quitting his last company which he only lasted at for three months. His life changes after meeting Yoaket zikita of the ReLife Research Institute, who offers him a drug that can change his appearance to 17-years-old again and to become a subject in a one-year experiment in which he begins his life as a high school student again.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/manga/kitasou-girl/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

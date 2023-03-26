@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hajime &#8211; Dispersion Translations</title>
+	<atom:link href="/manga-tag/hajime/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Sun, 26 Mar 2023 00:41:29 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Hajime boyfriend</title>
+		<link>/manga/hajime-boyfriend/</link>
+					<comments>/manga/hajime-boyfriend/#respond</comments>
+		
+		<dc:creator><![CDATA[link]]></dc:creator>
+		<pubDate>Tue, 10 Oct 2017 02:26:48 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.mangabooth.com/?post_type=wp-manga&#038;p=228</guid>
+
+					<description><![CDATA[Makunachi is an ordinary high school student in Japan. Since he spends most of his time away from school helping his mother run the family business, he doesn&#8217;t get to enjoy his younger years like most teenagers. Always a target for bullying at school, Ippo&#8217;s life is one of hardship. One of these after-school bullying...<div class="c-read-more"><a class="c-read-more-link" href="/manga/hajime-boyfriend/">Continue Reading</a> &#8594;</div>]]></description>
+										<content:encoded><![CDATA[<p>Makunachi is an ordinary high school student in Japan. Since he spends most of his time away from school helping his mother run the family business, he doesn&#8217;t get to enjoy his younger years like most teenagers. Always a target for bullying at school, Ippo&#8217;s life is one of hardship. One of these after-school bullying sessions turns Ippo&#8217;s life around for the better, as he is saved by a boxer named Takamura. He decides to follow in Takamura&#8217;s footsteps and train to become a boxer, giving his life direction and purpose. Ippo&#8217;s path to perfecting his pugilistic prowess is just beginning.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/manga/hajime-boyfriend/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

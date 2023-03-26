@@ -1,6 +1,0 @@
-php_value max_execution_time 300
-Deny from all
-<IfModule mod_rewrite.c>
-    RewriteEngine On
-    RewriteRule . - [R=404,L]
-</IfModule>
